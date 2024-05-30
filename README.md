@@ -1,2 +1,1 @@
-# ht-devx.github.io
-🔏 ⸨ personal ⸩  portfolio
+Portfolio/site, also used on my other account: [glenthemes.github.io](https://glenthemes.github.io)
